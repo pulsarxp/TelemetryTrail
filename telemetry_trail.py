@@ -65,7 +65,7 @@ def font(size):
 def main():
     ap=argparse.ArgumentParser()
     ap.add_argument("csv")
-    ap.add_argument("--out", default="fpv_minimap.mp4")
+    ap.add_argument("--out", default="minimap.mp4")
     ap.add_argument("--start", type=float, default=0, help="seconds from first valid GPS point")
     ap.add_argument("--duration", type=float, default=30, help="seconds; use 0 for full log")
     ap.add_argument("--fps", type=int, default=10)

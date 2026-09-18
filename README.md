@@ -64,7 +64,7 @@ További opciók:
 python telemetry_trail.py --help
 ```
 
-A kimenet alapértelmezett neve `fpv_minimap.mp4`; az `--out` kapcsolóval módosítható.
+A kimenet alapértelmezett neve `minimap.mp4`; az `--out` kapcsolóval módosítható.
 
 > Megjegyzés: a jelenlegi verzió EdgeTX CSV oszlopneveire épül (`GPS`, `GSpd(kmh)`, `GAlt(m)`, `RQly(%)`). További bemeneti formátumok támogatása később hozzáadható.
 
@@ -134,7 +134,7 @@ See all available options:
 python telemetry_trail.py --help
 ```
 
-The default output filename is `fpv_minimap.mp4`; use `--out` to change it.
+The default output filename is `minimap.mp4`; use `--out` to change it.
 
 > Note: the current version expects EdgeTX CSV column names (`GPS`, `GSpd(kmh)`, `GAlt(m)`, `RQly(%)`). Support for additional telemetry formats can be added later.
 
