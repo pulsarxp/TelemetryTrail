@@ -8,7 +8,7 @@ Az első támogatott bemeneti formátum az **EdgeTX CSV telemetria log**. A prog
 
 ## Demo
 
-[![TelemetryTrail Demo](https://img.youtube.com/vi/4vrVpWsQ1Sg/maxresdefault.jpg)](https://youtu.be/4vrVpWsQ1Sg)
+[![TelemetryTrail Demo](https://img.youtube.com/vi/4vrVpWsQ1Sg/hqdefault.jpg)](https://youtu.be/4vrVpWsQ1Sg)
 
 *Animált műholdas térkép-overlay EdgeTX telemetria logból.*
 
@@ -78,7 +78,7 @@ The first supported input format is **EdgeTX CSV telemetry logs**. The applicati
 
 ## Demo
 
-[![TelemetryTrail Demo](https://img.youtube.com/vi/4vrVpWsQ1Sg/maxresdefault.jpg)](https://youtu.be/4vrVpWsQ1Sg)
+[![TelemetryTrail Demo](https://img.youtube.com/vi/4vrVpWsQ1Sg/hqdefault.jpg)](https://youtu.be/4vrVpWsQ1Sg)
 
 *Animated satellite map overlay generated from an EdgeTX telemetry log.*
 
